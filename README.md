@@ -1,1 +1,2 @@
 # VLSI-projects
+This project involves designing and analyzing NMOS and CMOS inverter circuits using CADENCE Virtuoso with the gpdk 45 PDK. The Voltage Transfer Characteristics (VTC) and DC characteristics of NMOS are studied, with graphs for I_D vs V_DS and I_D vs V_GS generated. For the CMOS inverter, schematic design, simulation, and layout are performed. Parametric analysis is conducted by varying transistor widths while keeping the channel length at 50nm to achieve equal rise and fall transitions.
